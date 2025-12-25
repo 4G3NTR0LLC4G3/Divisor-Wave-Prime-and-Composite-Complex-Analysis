@@ -150,8 +150,6 @@ My name is Leo Borcherding, I am a Software Developer with experience working on
 engineering and my passion is mathematics as well as art. I am developing this software so that we can further our understanding of mathematics, physics, 
 and the universe. Please contact me at borchborchmail@gmail.com if you have questions or are able to do something interesting with my software or math. You can also leave feedback on the software in this submission form:
 
-https://docs.google.com/forms/d/e/1FAIpQLSedobin-e8XqIv2AgMWhIrcNq-Pm7fsD63rhjuEiksWMAe9Og/viewform?usp=sf_link
-
 Here is an example of the current capabilities of Bing chat with GPT4:
 
 <img
