@@ -148,7 +148,7 @@ https://unsolvedproblems.org/S132.pdf
 # About Me
 My name is Leo Borcherding, I am a Software Developer with experience working on programs for encryption of firmware devices. I have a background in electrical
 engineering and my passion is mathematics as well as art. I am developing this software so that we can further our understanding of mathematics, physics, 
-and the universe. Please contact me at borchborchmail@gmail.com if you have questions or are able to do something interesting with my software or math. You can also leave feedback on the software in this submission form:
+and the universe.
 
 Here is an example of the current capabilities of Bing chat with GPT4:
 
