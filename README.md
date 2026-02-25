@@ -153,11 +153,7 @@ Here is an example of the current capabilities of Bing chat with GPT4:
   style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 Ultimately knowledge should be free however it takes a lot of time and work to develop the mathematics, proofs and software required, I would really appreciate 
-it, if you feel inclined to donate to help me keep developing this software and writing this paper. You can find the donation link in the file called bitcoin_donation_wallet.txt
-
-Also if you want read my original paper I wrote in 2020 which initially started my journey on the Riemann Hypothesis here:
-
-https://docs.google.com/document/d/1EqDpk-XiKePku2qzsUmaPO4Ejpdq4HKg/edit
+it, if you feel inclined to donate to help me keep developing this software and writing this paper.
 
 and want to see my previous work on tetrahedral families from 2017 you can find that here:
 
